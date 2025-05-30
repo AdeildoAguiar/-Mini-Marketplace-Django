@@ -1,5 +1,5 @@
 
-markdown
+
 # 🛒 Mini Marketplace Django
 
 Um sistema simples de marketplace feito com Django, que permite listar produtos, adicionar ao carrinho, visualizar o total e finalizar uma compra. Desenvolvido como desafio avaliativo.
