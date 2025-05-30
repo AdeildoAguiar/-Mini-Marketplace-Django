@@ -1,5 +1,5 @@
 
-````markdown
+markdown
 # 🛒 Mini Marketplace Django
 
 Um sistema simples de marketplace feito com Django, que permite listar produtos, adicionar ao carrinho, visualizar o total e finalizar uma compra. Desenvolvido como desafio avaliativo.
@@ -40,7 +40,7 @@ Este projeto simula um sistema básico de compras, com:
   - `total`: DecimalField
   - `data_compra`: DateTimeField
 
----
+
 
 ## 🧑‍💻 Como Executar o Projeto
 
